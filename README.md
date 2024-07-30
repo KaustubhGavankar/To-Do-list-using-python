@@ -1,4 +1,4 @@
-# To-Do-list-using-python
+# To-Do-List-Using-Python
 This Python project serves as a robust ToDo list repository, allowing users to efficiently manage tasks, prioritize them, and mark them as completed. The repository offers functionalities such as adding new tasks, updating existing ones, and deleting tasks when they are no longer needed. Users can organize tasks by categories or tags for better organization and filtering. The project is designed to be user-friendly with a straightforward command-line interface, making it easy to use for individuals or teams looking to stay organized and productive.
 
 Key features include:
